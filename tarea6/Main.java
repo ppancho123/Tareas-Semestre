@@ -60,7 +60,6 @@ public class Main {
                     System.out.printf("Total a pagar: $%.2f%n", totales[i]);
                 }
 //JOSÉ FRANCISCO ARIAS MEDINA
-                // EDUARDO CALDERON TORRES
                 System.out.printf("\nTotal acumulado a pagar: $%.2f%n", totalAcumulado);
 
                 input.close();
