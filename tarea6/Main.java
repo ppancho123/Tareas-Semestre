@@ -5,7 +5,6 @@ public class Main {
         import java.util.Scanner;
 //JOSÉ FRANCISCO ARIAS MEDINA
         class CalculadoraProductos {
-            //EDUARDO CALDERON TORRES
             public static void main(String[] args) {
                 Scanner input = new Scanner(System.in);
 
@@ -63,3 +62,5 @@ public class Main {
                 System.out.printf("\nTotal acumulado a pagar: $%.2f%n", totalAcumulado);
 
                 input.close();
+            }
+        }
