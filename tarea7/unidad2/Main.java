@@ -23,7 +23,6 @@ public class Main {
         System.out.println("Números al cuadrado: " + numerosCuadrados);
         System.out.println("Media: " + media);
         System.out.println("Desviación estándar: " + desviacion);
-        System.out.println("HECHO Y REALIZADO POR EDUARDO CALDERÓN TORRES");
     }
 
     public static List<Integer> generarNumerosAleatorios(int cantidad, int min, int max) {
